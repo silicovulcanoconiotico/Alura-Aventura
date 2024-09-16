@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(226, 238, 87);
+    color: black;
+    font-family:"Oswald", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: rgb(117, 201, 232);
+    color: rgb(5, 4, 4);
+    font-family:"Oswald", sans-serif;
+}
+
+.passo{
+    display: nome;
+
+}
+
+.passo.ativo{
+    display: block;
+}
+
+main{
+    text-align: center;
+   max-width: 90%;
+}
+
+img{
+    max-width: 90%;
+}
